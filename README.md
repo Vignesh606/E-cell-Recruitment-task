@@ -65,11 +65,9 @@ Accent Color
 
 Bright Yellow (#FFC300)
 
-🔗 Live Figma Link (Mockup Placeholder)
 
-(Replace this placeholder with the actual public sharing link to your Figma file)
 
-[https://www.figma.com/file/E-Cell-VIT-Bhopal-Landing-Page-Design](https://www.figma.com/file/E-Cell-VIT-Bhopal-Landing-Page-Design)
+[https://www.figma.com/file/E-Cell-VIT-Bhopal-Landing-Page-Design](https://www.figma.com/make/nniMCFo20TbBlV5GgQABJB/Landing-Page-Design?node-id=0-1&p=f&t=eYjVJT0EnrWlRWx9-0&fullscreen=1)
 
 
 Contributing
