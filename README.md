@@ -30,6 +30,30 @@ Upcoming Events: A section highlighting key future events, with a distinct featu
 Why Join E-Cell: A concise, icon-driven feature list detailing the benefits of joining (Mentorship, Funding, Community).
 
 Footer: Comprehensive contact information, social links, and quick navigation.
+Here are some screenshots of the ui 
+<img width="1597" height="907" alt="image" src="https://github.com/user-attachments/assets/320a6f26-1da6-4c67-8e2b-083c7764381b" /> 
+<img width="1604" height="905" alt="image" src="https://github.com/user-attachments/assets/9ff0e62f-e836-409e-8b00-b24379495c89" />
+upcoming events section:-
+
+<img width="1594" height="907" alt="image" src="https://github.com/user-attachments/assets/b30ecfcf-58bd-4d2e-bdb7-650c61d4a615" /> 
+schedule section:-
+
+<img width="1603" height="908" alt="image" src="https://github.com/user-attachments/assets/45ae5b15-76e5-4892-b14c-185639590bf0" /> 
+join E-cell section
+<img width="1594" height="905" alt="image" src="https://github.com/user-attachments/assets/fd3325ae-4644-4691-9e58-5a7c6916eeaa" />
+contact details section :-
+
+<img width="1601" height="903" alt="image" src="https://github.com/user-attachments/assets/7bedc63c-a093-4dbd-8be4-872207199f70" />
+
+mobile preview:- 
+
+<img width="317" height="727" alt="image" src="https://github.com/user-attachments/assets/c71b06de-6937-4841-b726-71663a79adb7" />
+
+and i did add dark mode for our comfort 
+<img width="1589" height="909" alt="image" src="https://github.com/user-attachments/assets/5d9ab87b-897f-4568-97e5-bf47e36b841e" />
+
+
+
 
 🛠 Design Specifications
 
